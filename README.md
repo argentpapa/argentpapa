@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on Web3
-- 🌱 I’m currently learning starknet/cairo
 
 <!--
 **argentpapa/argentpapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
